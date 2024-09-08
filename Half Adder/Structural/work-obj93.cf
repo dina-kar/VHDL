@@ -1,0 +1,13 @@
+v 4
+file . "xor_gate.vhdl" "49b5b86d28152ce11fb761930ff90a42eb623932" "20240529114404.279":
+  entity xor_gate at 1( 0) + 0 on 17;
+  architecture func of xor_gate at 11( 186) + 0 on 18;
+file . "testbench.vhdl" "6b1ba94ecda46c8ff608b3e59456c6c8fe4767e3" "20240529114419.732":
+  entity testbench at 1( 0) + 0 on 21;
+  architecture working of testbench at 7( 86) + 0 on 22;
+file . "half_adder.vhdl" "4752a34594f45972ec7cfb04d56b2c7afce45935" "20240529114409.988":
+  entity half_adder at 1( 0) + 0 on 19;
+  architecture structure of half_adder at 11( 217) + 0 on 20;
+file . "and_gate.vhdl" "2ac67b0b986622f3e5798d08d7c9888d079f4ccc" "20240529114353.081":
+  entity and_gate at 1( 0) + 0 on 15;
+  architecture func of and_gate at 11( 186) + 0 on 16;

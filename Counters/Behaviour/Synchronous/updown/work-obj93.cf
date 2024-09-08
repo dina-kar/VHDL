@@ -1,0 +1,7 @@
+v 4
+file . "testbench.vhdl" "2c67dda3e71a0518d3eddd44d5b47c739c85aefe" "20240529030331.620":
+  entity tb_counters at 1( 0) + 0 on 13;
+  architecture behavioral of tb_counters at 7( 90) + 0 on 14;
+file . "updown.vhdl" "303ac6359088f1c2633244fcd9b2e9f04a59dd3b" "20240529030323.724":
+  entity updown_counter at 1( 0) + 0 on 11;
+  architecture behavioral of updown_counter at 13( 292) + 0 on 12;

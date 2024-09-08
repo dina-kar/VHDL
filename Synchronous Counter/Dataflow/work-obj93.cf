@@ -1,0 +1,7 @@
+v 4
+file . "testbench.vhdl" "38163f16467ff2a57d1ae1fe6089d855d4d3ec1e" "20240527110134.100":
+  entity testbench at 1( 0) + 0 on 53;
+  architecture working of testbench at 7( 86) + 0 on 54;
+file . "counter.vhdl" "449a251a1a2058200ae3ddf72424ba6b7886c01a" "20240527110132.316":
+  entity counter at 1( 0) + 0 on 51;
+  architecture dataflow of counter at 11( 241) + 0 on 52;

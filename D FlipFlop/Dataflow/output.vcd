@@ -1,0 +1,149 @@
+$date
+  Sun May 26 22:36:22 2024
+$end
+$version
+  GHDL v0
+$end
+$timescale
+  1 fs
+$end
+$scope module standard $end
+$upscope $end
+$scope module textio $end
+$upscope $end
+$scope module std_logic_1164 $end
+$upscope $end
+$scope module testbench $end
+$var reg 1 ! d $end
+$var reg 1 " clk $end
+$var reg 1 # q $end
+$var reg 1 $ q_bar $end
+$scope module uut $end
+$var reg 1 % d $end
+$var reg 1 & clk $end
+$var reg 1 ' q $end
+$var reg 1 ( q_bar $end
+$var reg 1 ) d1 $end
+$var reg 1 * s1 $end
+$var reg 1 + r1 $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+0!
+0"
+U#
+U$
+0%
+0&
+U'
+U(
+1)
+1*
+1+
+#1000000
+1"
+0#
+1$
+1&
+0'
+1(
+0+
+#2000000
+0"
+0&
+1+
+#3000000
+1"
+1&
+0+
+#4000000
+0"
+0&
+1+
+#5000000
+1"
+1&
+0+
+#6000000
+1!
+0"
+1%
+0&
+0)
+1+
+#7000000
+1"
+1#
+0$
+1&
+1'
+0(
+0*
+#8000000
+0"
+0&
+1*
+#9000000
+1"
+1&
+0*
+#10000000
+0"
+0&
+1*
+#11000000
+1"
+1&
+0*
+#12000000
+0"
+0&
+1*
+#13000000
+1"
+1&
+0*
+#14000000
+0"
+0&
+1*
+#15000000
+0!
+1"
+0#
+1$
+0%
+1&
+0'
+1(
+1)
+0+
+#16000000
+0"
+0&
+1+
+#17000000
+1"
+1&
+0+
+#18000000
+1!
+0"
+1%
+0&
+0)
+1+
+#19000000
+1"
+1#
+0$
+1&
+1'
+0(
+0*
+#20000000
+0"
+0&
+1*
+#21000000

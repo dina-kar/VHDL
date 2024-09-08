@@ -1,0 +1,7 @@
+v 4
+file . "testbench.vhdl" "6b1ba94ecda46c8ff608b3e59456c6c8fe4767e3" "20240529113942.500":
+  entity testbench at 1( 0) + 0 on 13;
+  architecture working of testbench at 7( 86) + 0 on 14;
+file . "half_adder.vhdl" "82ef0b5afba6c2e0d28dd95054130298a91ee947" "20240529113927.859":
+  entity half_adder at 1( 0) + 0 on 11;
+  architecture dataflow of half_adder at 11( 217) + 0 on 12;
